@@ -8,5 +8,6 @@ Ada berbagai cara yang anda bisa lakukan untuk membantu:
 - Menerjemahkan press releases sains
 - Menjawab pertanyaan di konten TanyaIlmuwan
 - Donasi dana melalui https://trakteer.id/saintifia
+- Berkolaborasi
 
 Bantuan anda bersifat sukarela/volunteer untuk keperluan edukasional non komersial, kami belum bisa memberi upah dan hanya bisa mengucapkan terima kasih dan bersyukur atas bantuan yang anda berikan.
