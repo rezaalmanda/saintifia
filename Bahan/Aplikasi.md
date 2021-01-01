@@ -7,7 +7,10 @@ Berikut adalah aplikasi yang saintifia gunakan untuk membantu publikasi:
     - Lunacy
 
 3. Video
-    Shotcut, Headlinerapp
+   - Shotcut, Headlinerapp
     
 4. Media sosial
     - Creator studio bawaan dari Facebook
+
+5. Dokumen
+    - LibreOffice
