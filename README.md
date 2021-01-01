@@ -1,4 +1,4 @@
-# saintifia
+# Saintifia
 
 Mari ikut berkontribusi untuk meningkatkan minat masyarakat terhadap ilmu pengetahuan/sains
 
