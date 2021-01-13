@@ -70,3 +70,249 @@ Harus izin dulu setiap kali terjemah
 - University of Texas Health Science Center at Houston
 - Utah State University
 - Wellesley College
+- Advanced Science Research Center at The Graduate Center of the City University of New York
+- Agencia SINC
+- Albert Einstein College of Medicine
+- American Academy of Orthopaedic Surgeons
+- Andor
+- Anglia Ruskin University
+- Association for Psychological Science
+- Aston University
+- AstraZeneca
+- Athlone Institute of Technology
+- Australian Catholic University
+- Barts and The London NHS Trust
+- Baylor College of Medicine
+- Baylor Scott and White Health
+- Baylor University
+- Belgian Institute for Space Aeronomy
+- Bioökonomierat
+- Birkbeck, University of London
+- BRE
+- Brigham Young University
+- Buffalo State College
+- California State University, Fullerton
+- California State University, Monterey Bay
+- Case Western Reserve University. 
+- Center for BrainHealth
+- Centre for Research in Agricultural Genomics (CRAG)
+- Charles Sturt University
+- Children's Hospital of Pittsburgh of UPMC
+- Cleveland Clinic
+- Columbia University School of Engineering and Applied Science
+- Cornell University College of Agriculture and Life Sciences
+- Curtin University 
+- Deutsche Gesellschaft für Innere Medizin
+- Deutsches Elektronen-Synchrotron
+- Dominican University
+- Donald Danforth Plant Science Center
+- ECOG-ACRIN Cancer Research Group
+- Eindhoven University of Technology
+- Elixir Europe
+- Emory Health Sciences
+- Emory University
+- Erneuerbare Energien GmbHa
+- Ethical Consumer
+- European Organisation for Research and Treatment of Cancer (EORTC)
+- Florida Atlantic University
+- Food Tank
+- Forschungszentrum Jülich
+- Forskningsrädet för Arbetsliv och Socialvetenskap - Swedish Council for Working Life and Social Research (FAS)
+- Fraunhofer-Institut fuer Produktionstechnologie IPT
+- Friedrich-Alexander-Universität Erlangen-Nürnberg
+- Garvan Institute of Medical Research
+- GEOMAR Research Center 
+- Georgetown University Medical Center.
+- Georgia State University
+- German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ)
+- Hamburg University of Technology (TUHH)
+- Harvard University
+- Hertie School of Governance
+- Hochschule für Wirtschaft FHNW - Institut für Wirtschaftsinformatik
+- Idaho National Laboratory
+- Imperial College London
+- IMT Atlantique
+- Inano
+- Indiana State University
+- Indiana University - Purdue University Indianapolis
+- INSERM (Institut national de la santé et de la recherche médicale)
+- Institut d'Astrophysique de Paris
+- Institut de Recherche pour le Développement
+- Institute of Cancer Research
+- Institute of Sciences of Food Production of the Italian National Research Council (ISPA-CNR)
+- Institute of Tropical Medicine Antwerp
+- Institutet för rymdfysik - Swedish Institute of Space Physics (IRF)
+- Instituto de Forma Tur­stica
+- Instituto Químico de Sarrià
+- International Food Policy Research Institute
+- Irstea (formerly Cemagref)
+- Istituto Italiano Di Techologia
+- Jagiellonian University
+- Joint Institute for Nuclear Research (JINR) 
+- Jönköping University
+- Joslin Diabetes Center
+- Journal of Studies on Alcohol and Drugs
+- Karlsruher Institut für Technologie 
+- Kingston University
+- Kobenhavns Universitet Det Sundhedsvidenskabelige Fakultet 
+- Kungliga Tekniska högskolan
+- La Trobe University
+- Leibniz-Institut für Astrophysik Potsdam
+- Leuphana Universität Lüneburg
+- Liverpool School of Tropical Medicine
+- London School of Hygiene & Tropical Medicine
+- Louisiana State University
+- Lund University
+- Macau University of Science and Technology
+- Macquarie University
+- Malmö University
+- Manchester Metropolitan University
+- Max Planck Institute For Chemical Physics of Solids
+- Max-Planck-Institut für ausländisches und internationales Privatrecht
+- Max-Planck-Institute of Quantum Optics
+- McGovern Institute for Brain Research
+- Michigan Medicine - University of Michigan
+- Monash University
+- Murdoch Childrens Research Institute
+- Murdoch University
+- Nagoya City University Medical School 
+- National Coordinating Centre for Health Technology Assessment a(NCCHTA)
+- National Institute for Fusion Science
+- National Optical Astronomy Observatory
+- National Research Council of Argentina (CONICET)
+- Nederlandse Organisatie voor Wetenschappelijk Onderzoek
+- Nencki Institute of Experimental Biology
+- New York University
+- NIOZ Royal Netherlands Institute for Sea Research
+- NORCE
+- North Carolina State University
+- Northern Michigan University
+- Okinawa Institute Science Technology
+- Open University
+- Oregon Health & Science University
+- Oregon State University
+- Oslo University Hospital
+- Penn State College of Engineering
+- Penn State University
+- Prince Leopold Institute of Tropical Medicine (ITM) 
+- Princeton Plasma Physics Laboratory
+- Radboud University Medical Center
+- Realizing Increased Photosynthetic Efficiency (RIPE) 
+- Research Society on Alcoholism
+- Rockfeller University
+- Royal Belgian Institue foor Natural Sciences
+- Royal College of Surgeons in Ireland
+- Royal Holloway
+- RSCI
+- Saint Louis University
+- Salzburg Research
+- Sanford Burnham Prebys Medical Discovery Institute
+- Science News
+- Siberian Federal University
+- Society for Endocrinology
+- Sorbonne Université
+- South Bank University
+- South Dakota State University
+- Southeastern Louisiana University
+- Stellenbosch University
+- SUNY Buffalo State
+- Swarthmore College
+- Swedish Environmental Protection Agency
+- Swedish University of Agricultural Sciences 
+- Tagis - Centro de Conservaço das Borboletas de Portugal
+- Technische Universität Berlin
+- Technische Universität Darmstadt
+- Technische Universität Dresden
+- Technische Universität Ilmenau
+- Technische Universität Kaiserslautern
+- The Company of Biologists
+- The Forsyth Institute
+- The Hong Kong Polytechnic University
+- The Hong Kong University of Science and Technology
+- The Institute for Evaluation of Labour Market and Education Policy
+- The Norwegian Space Centre (Norsk Romsenter)
+- The University of British Columbia
+- The Woods Hole Oceanographic Institution
+- The Zuckerman Institute at Columbia University
+- Tokyo Medical and Dental University
+- Tokyo University of Agriculture and Technology
+- Tokyo University of Science
+- Tulane University
+- UCLA Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research
+- UNED National Distance Education University
+- Union College
+- United European Gastroenterology
+- United States Department of Veterans Affairs
+- Universidad Complutense de Madrid
+- Universidad de Alicante
+- Universidad de Burgos
+- Universidad de Chile
+- Universidad de Córdoba
+- Universidad de Santiago de Compostela
+- Universidad de Valladolid
+- Università degli Studi di Parma
+- Università degli Studi di Torino
+- Universität Augsburg
+- Universität Koblenz-Landau
+- Universität Potsdam
+- Universität Rostock
+- Universität zu Köln
+- Universität zu Lübeck
+- Université d’ Angers
+- Université de Lille
+- Université Grenoble Alpes
+- Université Libre de Bruxelles
+- Universiteit Gent
+- Universiteit Utrecht
+- University College Cork
+- University College London
+- University of Adelaide
+- University of Arizona
+- University of Arkansas at Little Rock
+- University of British Columbia Okagan
+- University of California
+- University of California Riverside
+- University of California San Francisco
+- University of California, Los Angeles
+- University of Canberra
+- University of Central Florida
+- University of Central Lancashire
+- University of Dundee
+- University of Florida Institute of Food and Agricultural Sciences
+- University of Georgia
+- University of Georgia - Franklin College of Arts and Science
+- University of Guam
+- University of Hull
+- University of Jyväskylä
+- University of Kansas Medical Center
+- University of Kent
+- University of Leicester
+- University of Liege
+- University of Maryland School of Medicine
+- University of Massachusetts Lowell
+- University of Nebraska Medical Center 
+- University of Nevada, Las Vegas
+- University of Newcastle
+- University of North Carolina at Chapel Hill
+- University of Oklahoma
+- University of Pittsburgh Medical Center
+- University of Salford
+- University of Southampton
+- University of Southern California Viterbi School of Engineering 
+- University of Tennessee, Knoxville Tickle College of Engine
+- University of Tübingen
+- University of Utah
+- University of Washington School of Medicine
+- University of Wollongong
+- University of Wyoming
+- UNT Health Science Center
+- VDMA Europe
+- Virginia Commonwealth University
+- Virginia Polytechnic Institue and State University
+- Vrije Universiteit Brussel
+- W. M. Keck Observatory
+- Wageningen University & Research
+- Washington University in St. Louis McKelvey School of Engineering 
+- Washington University School of Medicine
+- Yale Cancer Center
+- Yale University
