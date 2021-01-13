@@ -28,35 +28,30 @@ Untuk daftar lengkapnya akan dibuat secara terpisah.
 Memberi atribusi dari aset visual yang anda gunakan sangatlah dianjurkan, hal tersebut membantu audiens melacak sumber gambar, membantu kreator melacak pengunaan karyanya, serta menandakan anda sudah memenuhi hak moral kreator atas karya ciptaannya. Hal minimal yang anda bisa lakukan 
 untuk memberikan atribusi yaitu seperti:
 
-Ini untuk paling minimal
-© Arizona State University 
+Bentuk minimal: © Arizona State University 
 
 Anda juga bisa menambahkan caption pada foto seperti
 
 Orang utan  sedang bermain © Arizona State University
 
-Untuk atribusi ideal jika menggunakan aset visual berlisensi creative commons seperti berikut: 
-
+Idealnya jika menggunakan aset berlisensi creative commons: 
 (keterangan gambar) oleh (pembuat) dilisensikan di bawah CC BY 2.0 (jenis lisensinya)
+Mobil oleh reza dilisensikan di bawah CC BY 2.0
+Detil lebih lanjut silakan baca https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
 
-Jadi seperti ini, Mobil oleh reza dilisensikan di bawah CC BY 2.0
-
-
-Detilnya bisa baca di sini https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
-
-Untuk posisi penempatan atribusi bisa disesuaikan kembali dengan kebutuhan, anda bisa menempatkannya pada foto langsung atau di bagian caption. Yang terpenting anda tidak boleh sampai lupa untuk memberikan atribusi.
+Untuk posisi penempatan atribusi bisa disesuaikan kembali dengan kebutuhan, anda bisa menempatkannya pada foto langsung atau di bagian caption. Yang terpenting adalah jangan lupa untuk memberikan atribusi.
 
 **F. Struktur konten di media sosial**
 
 (Caption/teks)
 
 Artikel referensi :Bite-size view of brain space >https://globe.ku.dk/newslist/2020/ancient-zircon/< 
-(jika menerjemahkan dari artikel, usahakan sumbernya dari situs universitas/institusinya langsung, jangan menautkan ke situs agregatornya. kalau tidak ada, tidak perlu ditambahkan)
+(jika menerjemahkan dari artikel, usahakan sumbernya dari situs universitas/institusinya langsung)
 
 Jurnal Referensi:
 Material Microsurgery: Selective Synthesis of Materials via High-Temperature Chemistry for Microrecycling of Electronic Waste. Rumana Hossain and Veena Sahajwalla. ACS Omega 2020 5 (28), 17062-17070. DOI: 10.1021/acsomega.0c00485 
 
-#hashtag
+#tagar
 
 **G. Struktur konten di web**
 
