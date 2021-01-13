@@ -8,7 +8,6 @@ Artikel Terjemahan: ada punya dua kategori
 
 1. Terjemahan langsung: menerjemahkan press releases secara langsung dari sumber dengan struktur serupa, dan hanya mengubah kata seperlunya saja. Artikel terjemah langsung hanya berasal dari situs yang sudah mengizinkan saintifia untuk menerjemahkannya. Formatnya terdiri dari teks terjemah, Artikel referensi dan jurnal referensinya.
 
-
 2. Terjemah tidak langsung: Menggunakan press releases sebagai materi terjemah yang akan dibuat dari awal menggunakan bahasa sendiri. Untuk terjemah tidak langsung, tak perlu meminta izin artikel rujukan yang akan digunakan. Tetapi tetap mencantumkan referensi yang dipakai, untuk format serupa dengan terjemah langsung.
 
 Video: untuk video ada beberapa pilihan
@@ -16,7 +15,7 @@ Video: untuk video ada beberapa pilihan
 	- Kita membuat subtitle untuk video mengenai penjelasan ilmuwan mengenai riset yang ia lakukan yang biasanya dipublikasikan oleh pihak universitas/institusinya. 
 2. Video rangkuman berita riset
 	
-	- Kita membuat rangkuman dari press releases riset, durasi minimal 1 menit, maksimal 5 menit
+	- Membuat rangkuman dari press releases, durasi minimal 1 menit, maksimal 5 menit
 	- Format video berupa gabungan gambar, video dan teks bisa juga menambahkan suara narator.
 
 Gambar:
@@ -26,11 +25,11 @@ Gambar:
 	- Rangkuman press releases berupa visual dan teks
 3. Daftar
 	- Berisi rangkuman situs atau aplikasi pembelajaran/edukasi
-4. Komik
+4. Komik(Planned)
 	- Menjelaskan hasil riset baru dengan bercerita
 5. Gambar biasa
 	- Mempublikasikan gambar berkaitan dengan riset, hewan, dll yang masih dalam ranah ilmu. Formatnya gambar dan juga penjelasan dari gambar tersebut
-6. TanyaIlmuwan
+6. TanyaIlmuwan (Planned)
 	- Menjawab pertanyaan yang diajukan oleh penanya yang akan dijawab oleh para ilmuwan ahli di bidangnya.
 
 Buku: Mempromosikan buku keilmuan yang akan terbit maupun yang sudah terbit
@@ -39,7 +38,7 @@ Acara: Mempromosikan Acara, konferensi, pertemuan ilmiah yang akan datang
 
 Ada apa dengan sains: 10 berita riset/penemuan pilihan yang terjadi selama sepekan
 
-Podcast Ilmuwan kita : Mengenal para ilmuwan melalui diskusi mengenai perjalanan pribadi menekuni profesi, suka duka dan hasil riset yang mereka lakukan serta nasihat yang mereka dapatkan dari ilmu yang dipelajari
+Podcast Ilmuwan kita(planned) : Mengenal para ilmuwan melalui diskusi mengenai perjalanan pribadi menekuni profesi, suka duka dan hasil riset yang mereka lakukan serta nasihat yang mereka dapatkan dari ilmu yang dipelajari
 
 *Catatan*: Tiap konten harus selalu mencantumkan referensi/sumber agar audiens bisa mempelajarinya lebih lanjut.
 
