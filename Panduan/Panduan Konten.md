@@ -1,6 +1,5 @@
-Panduan untuk membuat konten di Saintifia
 
-Panduan untuk membuat konten di Saintifia
+Panduan pembuatan konten
 
 Dokumen ini berisikan hal penting berkaitan dengan konten, bagaimana cara memulai, mencari dan membuat konten yang sesuai dengan saintifia. Di sini akan berisi lokasi pengambilan gambar, video dan elemen visual lainnya berserta artikel dan proses perizinan.
 
