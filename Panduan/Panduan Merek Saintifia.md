@@ -1,7 +1,5 @@
 Panduan Merek Saintifia
 
-Panduan Merek Saintifia
-
 Dokumen ini berisikan hal-hal yang mesti diperhatikan dalam pengunaan logo, tipografi, warna dari Saintifia ketika akan diterapkan pada media tertentu. Panduan ini bertujuan untuk memastikan bahwa seluruh kaidah dan pengunaannya konsisten.
 
 **A. Logo**
