@@ -67,9 +67,9 @@ Material Microsurgery: Selective Synthesis of Materials via High-Temperature Che
 
 Catatan:
 - Konten yang sudah dibuat bisa disimpan sebagai draft untuk nanti diperiksa kembali sebelum diterbitkan
-- Saintifia membuat konten setidaknya 3x sehari, pagi, siang dan sore/malam. Anda bisa menggunakan schedule post untuk memudahkan proses publikasi.
-- Jenis konten yang saintifia terbitkan mulai dari, artikel, gambar, video, audio, quotes, link yang berhubungan tentang sains dan lainnya yang masih berhubungan dengan itu.
+- Saintifia membuat konten setidaknya 1x per minggunya, Anda bisa menggunakan schedule post untuk memudahkan proses publikasi.
+- Jenis konten yang saintifia terbitkan mulai dari, artikel, gambar, video, audio, quotes, link yang berhubungan tentang sains.
 - Setiap konten yang telah dipublikasikan nantinya akan disebarkan ke beberapa grup facebook dan open chat line yang sesuai dengan tema bahasan.
-- Untuk mempermudah anda bisa mengikuti panduan tema konten per harinya, namun jika anda menemukan yang lebih menarik dan berbeda dari tema yang sudah dijadwalkan. Tidak apa-apa.
+- Untuk mempermudah anda bisa mengikuti content planner, namun jika anda menemukan yang lebih menarik dan berbeda dari tema yang sudah dijadwalkan. Tidak apa-apa.
 
 
